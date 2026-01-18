@@ -1,5 +1,5 @@
 name: app_music_list
-description: "A new Flutter project."
+description: "app music list"
 publish_to: 'none'
 version: 0.1.0
 
@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_riverpod: ^3.2.0
+  go_router: ^17.0.1
+  just_audio: ^0.10.5
 
 dev_dependencies:
   flutter_test:
